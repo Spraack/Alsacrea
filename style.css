@@ -4,6 +4,18 @@ index.html
 ----------
 */
 
+/*all*/
+
+.container{
+    width: 80%;
+    margin:auto;
+}
+
+
+/*fin all*/
+
+
+
 /*header*/
 
 .header{
@@ -26,15 +38,19 @@ index.html
 
 /* box*/
 
-.boxBg1{
+.box{
+    display: flex;
+}
+
+.box-Bg1{
     background-image: url(inte1.jpg);
 }
 
-.boxBg2{
+.box-Bg2{
     background-image: url(cms33.jpg);
 }
 
-.boxBg3{
+.box-Bg3{
     background-image: url(conseil.jpg);
 }
 
