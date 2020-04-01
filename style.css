@@ -4,3 +4,63 @@ index.html
 ----------
 */
 
+/*header*/
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo-alsacreations{
+    width: 50%;
+}
+
+/*fin header*/
+
+
+/*bandeau*/
+
+
+/*fin bandeau*/
+
+
+/* box*/
+
+.boxBg1{
+    background-image: url(inte1.jpg);
+}
+
+.boxBg2{
+    background-image: url(cms33.jpg);
+}
+
+.boxBg3{
+    background-image: url(conseil.jpg);
+}
+
+/*fin box*/
+
+/*gallery*/
+
+
+/*fin gallery*/
+
+
+/* temoignages*/
+
+
+/*fin temoignages*/
+
+
+/* contact*/
+
+
+/*fin contact*/
+
+
+
+
+/*footer*/
+
+
+/*fin footer*/
